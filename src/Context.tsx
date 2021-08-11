@@ -1,6 +1,5 @@
 import React, {
   createContext,
-  Dispatch,
   ReactChild,
   useContext,
   useReducer,
